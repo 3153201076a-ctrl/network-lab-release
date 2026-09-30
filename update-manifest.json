@@ -1,0 +1,6 @@
+{
+  "version": "2.2.0",
+  "url": "https://github.com/3153201076a-ctrl/network-lab-release/releases/latest",
+  "notes": "界面重做（Windows 11 Fluent Design）：云母材质、圆角、Segoe UI Variable、深浅主题、固定侧栏导航。新增「设置」页：界面语言（中/英）、主题、检查更新（多源兜底）、开机自启、通知、缓存清理、备份/恢复、日志导出、重置。修复知识库分类过滤、sysname 大小写、会话日志上限、畸形请求处理等问题。",
+  "publishedAt": "2026-09-30T10:00:00Z"
+}
