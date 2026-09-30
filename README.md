@@ -8,9 +8,9 @@
 
 ## 下载
 
-最新版本：**v2.2.2**
+最新版本：**v2.2.3**
 
-前往 [Releases](../../releases/latest) 下载 `网络实训平台-2.2.2-Setup.exe`。
+前往 [Releases](../../releases/latest) 下载 `网络实训平台-2.2.3-Setup.exe`。
 
 ## 安装
 
