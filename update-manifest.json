@@ -1,6 +1,6 @@
 {
-  "version": "2.4.0",
-  "url": "https://github.com/HachiFeng/network-lab-release/releases/latest",
-  "notes": "2.4.0：参赛演示模式（Ctrl+Alt+D 一键全屏）、知识库导出打印（筛选后另存 PDF）、新版本系统通知、界面语言切换（中/英）；修复打包客户端双击无反应；安装包瘦身 111MB→103MB。",
-  "publishedAt": "2026-10-01T03:42:41.625Z"
+  "version": "2.4.1",
+  "url": "https://github.com/HachiFeng/network-lab-release/releases/download/v2.4.1/NetworkLab-2.4.1-Setup.exe",
+  "notes": "2.4.1：外观设置（窗口材质 / 自定义色调 / 背景图片 / 界面字体，自动读取本机字体）、关于页作者信息卡片、启动速度优化（首屏卡顿 5.6s→0.67s）、系统字体枚举（292 字族）。详见 Release 说明。",
+  "publishedAt": "2026-10-01T13:22:10Z"
 }
