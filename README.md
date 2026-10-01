@@ -10,7 +10,7 @@
 
 最新版本：**v2.4.0**
 
-前往 [Releases](../../releases/latest) 下载 `网络实训平台-2.4.0-Setup.exe`。
+前往 [Releases](../../releases/latest) 下载 `NetworkLab-2.4.0-Setup.exe`。
 
 ## 安装
 
