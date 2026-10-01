@@ -1,6 +1,6 @@
 {
   "version": "2.4.0",
-  "url": "https://github.com/3153201076a-ctrl/network-lab-release/releases/latest",
+  "url": "https://github.com/HachiFeng/network-lab-release/releases/latest",
   "notes": "2.4.0：参赛演示模式（Ctrl+Alt+D 一键全屏）、知识库导出打印（筛选后另存 PDF）、新版本系统通知、界面语言切换（中/英）；修复打包客户端双击无反应；安装包瘦身 111MB→103MB。",
   "publishedAt": "2026-10-01T03:42:41.625Z"
 }
