@@ -47,7 +47,7 @@
 
 ## 📥 下载与安装
 
-1. 前往 [**Releases 最新版**](../../releases/latest)，下载 `NetworkLab-2.4.0-Setup.exe`（约 103 MB）；
+1. 前往 [**Releases 最新版**](../../releases/latest)，下载 `NetworkLab-2.4.1-Setup.exe`（约 103 MB）；
 2. 双击运行，按向导完成安装（8 页向导：许可协议 → 安装位置 → 快捷方式等，默认即可）；
 3. 从开始菜单或桌面快捷方式启动，**打开就是软件窗口，不会跳到浏览器**。
 
